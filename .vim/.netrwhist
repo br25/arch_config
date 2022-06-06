@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/oreo/.vim/autoload'
+let g:netrw_dirhist_3='/home/oreo/.config/earlyoom'
+let g:netrw_dirhist_2='/home/oreo/.config/fish/completions'
+let g:netrw_dirhist_1='/home/oreo/.config/fish/conf.d'
